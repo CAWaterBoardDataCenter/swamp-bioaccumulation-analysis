@@ -1,0 +1,314 @@
+﻿SumGroup,SumGroupDisplay,AnalyteName,SumFlag,ParamRequired,group1pcb40,AnalyteGroup,LastUpdateDate,CreateDate
+Age,Age,Age,1,,,,,11/6/12
+Aldrin,Aldrin,Aldrin,,,,,,
+microcystin,Sum of Microcystin,Anatoxin-A,1,,,,,
+CHLORDANE,Sum of Chlordane,"Chlordane, cis-",1,x,,organics            ,,
+CHLORDANE,Sum of Chlordane,"Chlordane, trans-",1,x,,organics            ,,
+microcystin,Sum of Microcystin,Cylindrospermopsin,1,,,,,
+Dacthal,Dacthal,Dacthal,,,,,,
+DDT,Sum of DDTs,"DDD(o,p')",1,,,organics            ,,
+DDT,Sum of DDTs,"DDD(p,p')",1,x,,organics            ,,
+DDT,Sum of DDTs,"DDE(o,p')",1,,,organics            ,,
+DDT,Sum of DDTs,"DDE(p,p')",1,x,,organics            ,,
+DDMU,DDMU,"DDMU(p,p')",,,,,,
+DDT,Sum of DDTs,"DDT(o,p')",1,,,organics            ,,
+DDT,Sum of DDTs,"DDT(p,p')",1,,,organics            ,,
+microcystin,Sum of Microcystin,Desmethyl-LR,1,,,,,
+microcystin,Sum of Microcystin,Desmethyl-RR,1,,,,,
+DIELDRIN,Dieldrin,Dieldrin,1,,,organics            ,,
+microcystin,Sum of Microcystin,Domoic acid,1,,,,,
+Endosulfan I,Endosulfan I,Endosulfan I,,,,,,
+Endrin,Endrin,Endrin,,,,,,
+HCH,HCH,"HCH, alpha-",,,,,6/25/13,
+HCH,HCH,"HCH, beta-",,,,,6/25/13,
+HCH,HCH,"HCH, gamma-",,,,,6/25/13,
+CHLORDANE,Sum of Chlordane,Heptachlor,,,,organics            ,,
+CHLORDANE,Sum of Chlordane,Heptachlor Epoxide,,,,organics            ,8/7/14,
+Hexachlorobenzene,Hexachlorobenzene,Hexachlorobenzene,,,,,,
+DIOXIN,Sum of Dioxins,"HpCDD, 1,2,3,4,6,7,8-",1,,,organics            ,,
+DIOXIN,Sum of Dioxins,"HpCDF, 1,2,3,4,6,7,8-",1,,,organics            ,,
+DIOXIN,Sum of Dioxins,"HpCDF, 1,2,3,4,7,8,9-",1,,,organics            ,,
+DIOXIN,Sum of Dioxins,"HxCDD, 1,2,3,4,7,8-",1,,,organics            ,,
+DIOXIN,Sum of Dioxins,"HxCDD, 1,2,3,6,7,8-",1,,,organics            ,,
+DIOXIN,Sum of Dioxins,"HxCDD, 1,2,3,7,8,9-",1,,,organics            ,,
+DIOXIN,Sum of Dioxins,"HxCDF, 1,2,3,4,7,8-",1,,,organics            ,,
+DIOXIN,Sum of Dioxins,"HxCDF, 1,2,3,6,7,8-",1,,,organics            ,,
+DIOXIN,Sum of Dioxins,"HxCDF, 1,2,3,7,8,9-",1,,,organics            ,,
+DIOXIN,Sum of Dioxins,"HxCDF, 2,3,4,6,7,8-",1,,,organics            ,,
+LIPID,Lipid,Lipid,,,,,,
+microcystin,Sum of Microcystin,Lyngbyatoxin-a,1,,,,,
+MERCURY,Mercury,Mercury,1,,,metals              ,,
+Methoxychlor,Methoxychlor,Methoxychlor,,,,,,
+microcystin,Sum of Microcystin,Microcystin-LA,1,,,,5/30/13,
+microcystin,Sum of Microcystin,Microcystin-LF,1,,,,5/30/13,
+microcystin,Sum of Microcystin,Microcystin-LR,1,,,,5/30/13,
+microcystin,Sum of Microcystin,Microcystin-LW,1,,,,5/30/13,
+microcystin,Sum of Microcystin,Microcystin-LY,1,,,,5/30/13,
+microcystin,Sum of Microcystin,Microcystin-RR,1,,,,5/30/13,
+microcystin,Sum of Microcystin,Microcystin-YR,1,,,,5/30/13,
+Mirex,Mirex,Mirex,,,,,,
+microcystin,Sum of Microcystin,Nodularin,1,,,,,
+CHLORDANE,Sum of Chlordane,"Nonachlor, cis-",1,x,,organics            ,,
+CHLORDANE,Sum of Chlordane,"Nonachlor, trans-",1,x,,organics            ,,
+DIOXIN,Sum of Dioxins,"OCDD, 1,2,3,4,6,7,8,9-",1,,,organics            ,,
+DIOXIN,Sum of Dioxins,"OCDF, 1,2,3,4,6,7,8,9-",1,,,organics            ,,
+microcystin,Sum of Microcystin,Okadaic acid,1,,,,,
+Oxadiazon,Oxadiazon,Oxadiazon,,,,,,
+CHLORDANE,Sum of Chlordane,Oxychlordane,1,,,organics            ,,
+PBDE,Sum of PBDEs,PBDE 017,1,,,organics            ,,
+PBDE,Sum of PBDEs,PBDE 025,1,,,organics            ,,
+PBDE,Sum of PBDEs,PBDE 028,1,,,organics            ,,
+PBDE,Sum of PBDEs,PBDE 030,1,,,organics            ,,
+PBDE,Sum of PBDEs,PBDE 033,1,,,organics            ,,
+PBDE,Sum of PBDEs,PBDE 047,1,,,organics            ,,
+PBDE,Sum of PBDEs,PBDE 049,1,,,organics            ,,
+PBDE,Sum of PBDEs,PBDE 066,1,,,organics            ,,
+PBDE,Sum of PBDEs,PBDE 085,1,,,organics            ,,
+PBDE,Sum of PBDEs,PBDE 099,1,,,organics            ,,
+PBDE,Sum of PBDEs,PBDE 100,1,,,organics            ,,
+PBDE,Sum of PBDEs,PBDE 138,1,,,organics            ,,
+PBDE,Sum of PBDEs,PBDE 153,1,,,organics            ,,
+PBDE,Sum of PBDEs,PBDE 154,1,,,organics            ,,
+PBDE,Sum of PBDEs,PBDE 155,1,,,organics            ,,
+PBDE,Sum of PBDEs,PBDE 179,1,,,organics            ,,
+PBDE,Sum of PBDEs,PBDE 183,1,,,organics            ,,
+PBDE,Sum of PBDEs,PBDE 184,1,,,organics            ,,
+PBDE,Sum of PBDEs,PBDE 188,1,,,organics            ,,
+PBDE,Sum of PBDEs,PBDE 190,1,,,organics            ,,
+PBDE,Sum of PBDEs,PBDE 200,1,,,organics            ,,
+PBDE,Sum of PBDEs,PBDE 201,1,,,organics            ,,
+PBDE,Sum of PBDEs,PBDE 202,1,,,organics            ,,
+PBDE,Sum of PBDEs,PBDE 203,1,,,organics            ,,
+PBDE,Sum of PBDEs,PBDE 206,1,,,organics            ,,
+PBDE,Sum of PBDEs,PBDE 207,1,,,organics            ,,
+PBDE,Sum of PBDEs,PBDE 208,1,,,organics            ,,
+PBDE,Sum of PBDEs,PBDE 209,1,,,organics            ,,
+PCB,Sum of PCBs,PCB 001,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 002,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 003,1,,,organics            ,,3/1/22
+PCB,Sum of PCBs,PCB 004,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 005,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 005/8,1,,,organics            ,,3/1/22
+PCB,Sum of PCBs,PCB 006,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 007,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 008,1,,1,organics            ,,
+PCB,Sum of PCBs,PCB 009,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 010,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 011,,,,organics            ,,
+PCB,Sum of PCBs,PCB 012/13,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 014,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 015,1,,,organics            ,,3/1/22
+PCB,Sum of PCBs,PCB 016,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 017,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 018,1,,1,organics            ,,
+PCB,Sum of PCBs,PCB 018/30,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 019,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 020/28,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 021/33,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 022,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 023,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 024,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 025,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 026/29,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 027,1,,,organics            ,,
+PCB,Sum of PCBs,PCB 028,1,,1,organics            ,,
+PCB,Sum of PCBs,PCB 028/31,1,,,organics            ,,
+PCB,Sum of PCBs,PCB 029,1,,,organics            ,,
+PCB,Sum of PCBs,PCB 031,1,,1,organics            ,,
+PCB,Sum of PCBs,PCB 032,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 033,1,,1,organics            ,,
+PCB,Sum of PCBs,PCB 034,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 035,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 036,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 037,1,,,organics            ,,3/1/22
+PCB,Sum of PCBs,PCB 038,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 039,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 040/41/71,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 042,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 043,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 044,1,,1,organics            ,,
+PCB,Sum of PCBs,PCB 044/47/65,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 045/51,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 046,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 048,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 049,1,,1,organics            ,,
+PCB,Sum of PCBs,PCB 049/69,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 050/53,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 052,1,,1,organics            ,,
+PCB,Sum of PCBs,PCB 054,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 055,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 056,1,,1,organics            ,,
+PCB,Sum of PCBs,PCB 056/60,1,,,organics            ,,
+PCB,Sum of PCBs,PCB 057,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 058,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 059/62/75,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 060,1,,1,organics            ,,
+PCB,Sum of PCBs,PCB 061/70/74/76,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 063,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 064,1,,,organics            ,,
+PCB,Sum of PCBs,PCB 066,1,,1,organics            ,,
+PCB,Sum of PCBs,PCB 067,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 068,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 070,1,,1,organics            ,,
+PCB,Sum of PCBs,PCB 072,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 073,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 074,1,,1,organics            ,,
+PCB,Sum of PCBs,PCB 077,1,,,organics            ,,
+PCB,Sum of PCBs,PCB 078,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 079,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 080,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 081,1,,,organics            ,,3/1/22
+PCB,Sum of PCBs,PCB 082,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 083/99,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 084,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 085/116/117,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 086/87/97/108/119/125,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 087,1,,1,organics            ,,
+PCB,Sum of PCBs,PCB 088/91,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 089,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 090/101/113,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 092,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 093/95/98/100/102,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 094,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 095,1,,1,organics            ,,
+PCB,Sum of PCBs,PCB 096,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 097,1,,1,organics            ,,
+PCB,Sum of PCBs,PCB 099,1,,1,organics            ,,
+PCB,Sum of PCBs,PCB 101,1,x,1,organics            ,,
+PCB,Sum of PCBs,PCB 103,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 104,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 105,1,,1,organics            ,,
+PCB,Sum of PCBs,PCB 106,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 107/124,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 109,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 110,1,x,1,organics            ,,
+PCB,Sum of PCBs,PCB 110/115,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 111,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 112,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 114,1,,,organics            ,,
+PCB,Sum of PCBs,PCB 118,1,x,1,organics            ,,
+PCB,Sum of PCBs,PCB 119,1,,,organics            ,,3/1/22
+PCB,Sum of PCBs,PCB 120,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 121,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 122,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 123,1,,,organics            ,,3/1/22
+PCB,Sum of PCBs,PCB 126,1,,,organics            ,,
+PCB,Sum of PCBs,PCB 127,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 128,1,,1,organics            ,,
+PCB,Sum of PCBs,PCB 128/166,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 129/138/160/163,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 130,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 131,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 132,1,,1,organics            ,,
+PCB,Sum of PCBs,PCB 132/153,1,,,organics            ,,3/1/22
+PCB,Sum of PCBs,PCB 133,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 134/143,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 135/151/154,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 136,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 137,1,,,organics            ,,
+PCB,Sum of PCBs,PCB 138,1,x,1,organics            ,,
+PCB,Sum of PCBs,PCB 138/158,1,,,organics            ,,
+PCB,Sum of PCBs,PCB 139/140,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 141,1,,1,organics            ,,
+PCB,Sum of PCBs,PCB 142,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 144,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 145,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 146,1,,,organics            ,,
+PCB,Sum of PCBs,PCB 147/149,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 148,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 149,1,x,1,organics            ,,
+PCB,Sum of PCBs,PCB 150,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 151,1,,1,organics            ,,
+PCB,Sum of PCBs,PCB 152,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 153,1,x,1,organics            ,,
+PCB,Sum of PCBs,PCB 153/168,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 155,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 156,1,,1,organics            ,,
+PCB,Sum of PCBs,PCB 156/157,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 157,1,,,organics            ,,
+PCB,Sum of PCBs,PCB 158,1,,1,organics            ,,
+PCB,Sum of PCBs,PCB 159,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 161,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 162,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 164,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 165,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 167,1,,,organics            ,,3/1/22
+PCB,Sum of PCBs,PCB 168,1,,,organics            ,,3/1/22
+PCB,Sum of PCBs,PCB 169,1,,,organics            ,,
+PCB,Sum of PCBs,PCB 170,1,x,1,organics            ,,
+PCB,Sum of PCBs,PCB 171/173,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 172,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 174,1,,1,organics            ,,
+PCB,Sum of PCBs,PCB 175,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 176,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 177,1,,1,organics            ,,
+PCB,Sum of PCBs,PCB 178,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 179,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 180,1,x,1,organics            ,,
+PCB,Sum of PCBs,PCB 180/193,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 181,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 182,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 183,1,,1,organics            ,,
+PCB,Sum of PCBs,PCB 183/185,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 184,1,,,organics            ,,3/1/22
+PCB,Sum of PCBs,PCB 186,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 187,1,x,1,organics            ,,
+PCB,Sum of PCBs,PCB 188,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 189,1,,,organics            ,,
+PCB,Sum of PCBs,PCB 190,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 191,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 192,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 194,1,,1,organics            ,,
+PCB,Sum of PCBs,PCB 195,1,,1,organics            ,,
+PCB,Sum of PCBs,PCB 196,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 197/200,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 198,1,,,organics            ,,
+PCB,Sum of PCBs,PCB 198/199,1,,,organics            ,,
+PCB,Sum of PCBs,PCB 199,1,,,organics            ,,
+PCB,Sum of PCBs,PCB 200,1,,,organics            ,,
+PCB,Sum of PCBs,PCB 201,1,,1,organics            ,,
+PCB,Sum of PCBs,PCB 202,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 203,1,,1,organics            ,,
+PCB,Sum of PCBs,PCB 204,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 205,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 206,1,,,organics            ,,
+PCB,Sum of PCBs,PCB 207,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 208,1,,,organics            ,,10/4/24
+PCB,Sum of PCBs,PCB 209,1,,,organics            ,,
+PCB_ARO,PCB_ARO,PCB AROCLOR 1016,1,,,organics            ,,3/1/22
+PCB_ARO,PCB_ARO,PCB AROCLOR 1221,1,,,organics            ,,3/1/22
+PCB_ARO,PCB_ARO,PCB AROCLOR 1232,1,,,organics            ,,3/1/22
+PCB_ARO,PCB_ARO,PCB AROCLOR 1242,1,,,organics            ,,3/1/22
+PCB_ARO,PCB_ARO,PCB AROCLOR 1248,1,x,,organics            ,,
+PCB_ARO,PCB_ARO,PCB AROCLOR 1254,1,x,,organics            ,,
+PCB_ARO,PCB_ARO,PCB AROCLOR 1260,1,x,,organics            ,,
+DIOXIN,Sum of Dioxins,"PeCDD, 1,2,3,7,8-",1,,,organics            ,,
+DIOXIN,Sum of Dioxins,"PeCDF, 1,2,3,7,8-",1,,,organics            ,,
+DIOXIN,Sum of Dioxins,"PeCDF, 2,3,4,7,8-",1,,,organics            ,,
+PFC,Sum of PFCs,Perfluorobutanesulfonate,1,,,organics            ,,
+PFC,Sum of PFCs,Perfluorobutanoate,1,,,organics            ,,
+PFC,Sum of PFCs,Perfluorobutanoate-13C4(Surrogate),,,,organics            ,,
+PFC,Sum of PFCs,Perfluorodecanoate,1,,,organics            ,,
+PFC,Sum of PFCs,Perfluorodecanoate-13C2(Surrogate),,,,organics            ,,
+PFC,Sum of PFCs,Perfluorododecanoate,1,,,organics            ,,
+PFC,Sum of PFCs,Perfluorododecanoate-13C2(Surrogate),,,,organics            ,,
+PFC,Sum of PFCs,Perfluoroheptanoate,1,,,organics            ,,
+PFC,Sum of PFCs,Perfluorohexanesulfonate,1,,,organics            ,,
+PFC,Sum of PFCs,Perfluorohexanoate,1,,,organics            ,,
+PFC,Sum of PFCs,Perfluorohexanoate-13C2(Surrogate),,,,organics            ,,
+PFC,Sum of PFCs,Perfluorononanoate,1,,,organics            ,,
+PFC,Sum of PFCs,Perfluorononanoate-13C5(Surrogate),,,,organics            ,,
+PFC,Sum of PFCs,Perfluorooctanesulfonamide,1,,,organics            ,,
+PFC,Sum of PFCs,Perfluorooctanesulfonate,1,,,organics            ,,
+PFC,Sum of PFCs,Perfluorooctanesulfonate-13C4(Surrogate),,,,organics            ,,
+PFC,Sum of PFCs,Perfluorooctanoate,1,,,organics            ,,
+PFC,Sum of PFCs,Perfluorooctanoate-13C2(Surrogate),,,,organics            ,,
+PFC,Sum of PFCs,Perfluorooctanoate-13C8(Surrogate),,,,organics            ,,
+PFC,Sum of PFCs,Perfluoropentanoate,1,,,organics            ,,
+PFC,Sum of PFCs,Perfluoroundecanoate,1,,,organics            ,,
+microcystin,Sum of Microcystin,Saxitoxins,1,,,,,
+SELENIUM,Selenium,Selenium,1,,,metals              ,,
+DIOXIN,Sum of Dioxins,Sum of Dioxin-Furan TEQs (WHO 2005;ND=0 SFEI),,,,organics            ,,
+DIOXIN,Sum of Dioxins,"TCDD, 2,3,7,8-",1,,,organics            ,,
+DIOXIN,Sum of Dioxins,"TCDF, 2,3,7,8-",1,,,organics            ,,
+Tedion,Tedion,Tedion,,,,,,

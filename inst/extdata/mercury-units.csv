@@ -1,0 +1,13 @@
+﻿Unit,ppmConversionMultiplier
+ppm,1
+mg/Kg,1
+mg/Kg dw,1
+mg/Kg ww,1
+ng/g,0.001 
+ng/g dw,0.001 
+ng/g ww,0.001 
+ug/g,1
+ug/g dw,1
+ug/g fww,1
+ug/g nr,1
+ug/g ww,1

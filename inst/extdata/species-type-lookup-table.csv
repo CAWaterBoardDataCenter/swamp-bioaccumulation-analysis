@@ -1,0 +1,126 @@
+﻿commonname,species,fishtype,smallfish_limit
+American Shad,Alosa sapidissima,both,110
+Barred Sand Bass,Paralabrax nebulifer,sport,
+Barred Surfperch,Amphistichus argenteus,sport,
+Bat Ray,Myliobatis californica,sport,
+Bigscale Logperch,Percina macrolepida,small,
+Black and Yellow Rockfish,Sebastes chrysomelas,sport,
+Black Bullhead,Ameiurus melas,sport,
+Black Crappie,Pomoxis nigromaculatus,both,110
+Black Croaker,Cheilotrema saturnum,sport,
+Black Perch,Embiotoca jacksoni,sport,
+Black Rockfish,Sebastes melanops,sport,
+Blue Catfish,Ictalurus furcatus,sport,
+Blue Chub,Gila coerulea,small,
+Blue Rockfish,Sebastes mystinus,sport,
+Bluegill,Lepomis macrochirus,both,110
+Brook Trout,Salvelinus fontinalis,both,105
+Brown Bullhead,Ameiurus nebulosus,both,150
+Brown Rockfish,Sebastes auriculatus,sport,
+Brown Smooth-hound Shark,Mustelus henlei,sport,
+Brown Trout,Salmo trutta,both,104
+Cabezon,Scorpaenichthys marmoratus,sport,
+California Corbina,Menticirrhus undulatus,sport,
+California Halibut,Paralichthys californicus,sport,
+California Killifish,Fundulus parvipinnis,small,
+California Mussel,Mytilus californianus,notfish,
+California Roach,Hesperoleucus symmetricus,sport,
+California Sheephead,Semicossyphus pulcher,sport,
+Channel Catfish,Ictalurus punctatus,both,150
+China Rockfish,Sebastes nebulosus,sport,
+Chinook Salmon,Oncorhynchus tshawytscha,sport,
+Chub Mackerel,Scomber japonicus,sport,
+Common Carp,Cyprinus carpio,both,110
+Convict Cichlid,Amatitlania nigrofasciata,both,150
+Copper Rockfish,Sebastes caurinus,sport,
+Corbicula spp.,Corbicula,notfish,
+Cortez Bonefish,Albula gilberti,sport,
+Crappie,Pomoxis,sport,
+Diamond Turbot,Hypsopsetta guttulata,sport,
+Eagle Lake Trout,Oncorhynchus mykiss aquilarum,sport,
+Flathead Catfish,Pylodictis olivaris,sport,
+Goby,Gobiidae,small,
+Golden Shiner,Notemigonus crysoleucas,small,
+Golden Trout,Oncorhynchus aguabonita,sport,
+Goldfish,Carassius auratus,sport,
+Gopher Rockfish,Sebastes carnatus,sport,
+Grass Carp,Ctenopharyngodon idella,sport,
+Grass Rockfish,Sebastes rastrelliger,sport,
+Gray Smoothhound Shark,Mustelus californicus,sport,
+Green Sunfish,Lepomis cyanellus,both,100
+Hardhead,Mylopharodon conocephalus,both,110
+Hitch,Lavinia exilicauda,both,110
+Jack Mackerel,Trachurus symmetricus,sport,
+Jacksmelt,Atherinopsis californiensis,sport,
+Kelp Bass,Paralabrax clathratus,sport,
+Kelp Greenling,Hexagrammos decagrammus,sport,
+Kelp Rockfish,Sebastes atrovirens,sport,
+koanee,Paralabrax maculatofasciatus,sport,
+Kokanee,Oncorhynchus nerka,both,110
+Lahontan Cutthroat Trout,Oncorhynchus clarkii henshawi,sport,
+Lake Trout,Salvelinus namaycush,sport,
+Largemouth Bass,Micropterus salmoides,both,150
+Leopard shark,Triakis semifasciata,sport,
+Lingcod,Ophiodon elongatus,sport,
+Mississippi silverside,Menidia audens,small,
+Mosquitofish,Gambusia affinis,small,
+Mottled Sculpin,Cottus bairdii,small,
+Mountain Sucker,Catostomus platyrhynchus,sport,
+Mountain Whitefish,Prosopium williamsoni,sport,
+Northern Anchovy,Engraulis mordax,small,
+Ocean Whitefish,Caulolatilus princeps,sport,
+Olive Rockfish,Sebastes serranoides,sport,
+Opaleye,Girella nigricans,sport,
+Orange Spotted Sunfish,Lepomis humitis,small,
+Pacific Barracuda,Sphyraena argentea,sport,
+Pacific Sanddab,Citharichthys sordidus,sport,
+Pacific Sardine,Sardinops sagax,sport,
+Pacific Staghorn Sculpin,Leptocottus armatus,sport,
+Pile Surfperch,Rhacochilus  vacca,sport,
+Pumpkinseed,Lepomis gibbosus,both,110
+Queenfish,Seriphus politus,sport,
+Quillback Rockfish,Sebastes maliger,sport,
+Rainbow Surfperch,Hypsurus caryi,sport,
+Rainbow Trout,Oncorhynchus mykiss,sport,
+Redear Sunfish,Lepomis microlophus,both,110
+Rosy Rockfish,Sebastes rosaceus,sport,
+Round Stingray,Urobatis halleri,sport,
+Sacramento Blackfish,Orthodon microlepidotus,sport,
+Sacramento Perch,Archoplites interruptus,both,150
+Sacramento Pikeminnow,Ptychocheilus grandis,both,110
+Sacramento Sucker,Catostomus occidentalis,both,110
+Sculpin,Cottus,small,
+Shiner Surfperch,Cymatogaster aggregata,sport,
+Silverside,Menidia beryllina,small,
+Smallmouth Bass,Micropterus dolomieu,both,150
+Spiny dogfish,Squalus acanthias,sport,
+Splittail,Pogonichthys macrolepidotus,sport,
+Spotfin Croaker,Roncador stearnsii,sport,
+Spotted Bass,Micropterus punctulatus,both,150
+Spotted Sand Bass,Paralabrax maculatofasciatus,sport,
+Spotted Scorpionfish,Scorpaena plumieri,sport,
+Steelhead Rainbow Trout,Oncorhynchus mykiss gairdneri,sport,
+Striped Bass,Morone saxatilis,sport,
+Tahoe sucker,Catostomus tahoensis,small,
+Threadfin Shad,Dorosoma petenense,small,
+Threespine Stickleback,Gasterosteus aculeatus,small,
+Tilapia,Tilapia,both,110
+Tilapia leucosticta,Tilapia leucosticta,sport,
+Tilapia spp.,Tilapia,both,110
+Top smelt,Atherinops affinis,both,150
+Topsmelt,Atherinops affinis,both,150
+Tui Chub,Gila bicolor,both,150
+Tule Perch,Hysterocarpus traskii,both,100
+Vermillion Rockfish,Sebastes miniatus,sport,
+Walleye Surfperch,Hyperprosopon argenteum,sport,
+Warmouth,lepomis gulosus,both,100
+White Catfish,Ameiurus catus,sport,
+White Crappie,Pomoxis annularis,both,110
+White Croaker,Genyonemus lineatus,sport,
+White Sturgeon,Acipenser transmontanus,sport,
+White Surfperch,Phanerodon furcatus,sport,
+Winged Floater Mussel,Anodonta nuttalliana,notfish,
+Yellow Perch,Perca flavescens,both,110
+Yellowfin Croaker,Umbrina roncador,sport,
+Yellowtail Rockfish,Sebastes flavidus,sport,
+Zebra Perch,Hermosilla azurea,sport,

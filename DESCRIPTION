@@ -1,0 +1,27 @@
+Package: swampBioaccumulationAnalysis
+Type: Package
+Title: SWAMP Bioaccumulation Analysis Scripts
+Version: 1.0.0
+Authors@R: c(person("Weaver", "Michael", , "michaelw@sfei.org", role = c("aut", "cre"))
+    ,person("Davis", "Jay", , "jayd@sfei.org", role = "aut")
+    )
+Description: Scripts to analyze SWAMP Bioaccumulation Monitoring Data.
+    Designed to run on tissue data downloaded from the CEDEN Query tool at ceden.waterboards.ca.gov.
+License: use_gpl_license()
+Encoding: UTF-8
+Imports: 
+    car,
+    dplyr,
+    openxlsx2,
+    stringr,
+    magrittr,
+    gplots,
+    tidyr,
+    knitr,
+    lubridate
+Suggests: 
+    devtools,
+	remotes    
+RoxygenNote: 7.3.2
+Roxygen: list(markdown = TRUE)
+VignetteBuilder: knitr
